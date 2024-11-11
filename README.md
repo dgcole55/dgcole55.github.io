@@ -1,5 +1,5 @@
 # dgcole55.github.io
-## Header 2
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis libero enim, feugiat sit amet dictum ac, dictum quis lectus. Morbi rutrum fermentum mauris, vitae cursus lectus tempus nec. Maecenas vehicula eros ultrices pretium vehicula. Cras aliquet enim eu ipsum aliquam aliquam. Cras consequat leo sem, a aliquet ante porttitor in. Nunc viverra tellus condimentum massa egestas, non consequat nulla vestibulum. Maecenas dapibus metus ut nisl sollicitudin convallis. Phasellus arcu nisi, faucibus non justo ut, pharetra efficitur nisl. Suspendisse aliquam sem non massa pellentesque varius. Donec id risus hendrerit, tempus sem at, molestie nisl. Praesent porta mollis ligula, nec viverra purus porta vitae. Donec efficitur bibendum neque.
 
 Proin nec volutpat mauris. In hac habitasse platea dictumst. Mauris sed sapien egestas, pretium mi et, ultrices tellus. Sed aliquam nisi sed tempus luctus. Sed commodo, est sed iaculis tincidunt, augue dolor cursus nisl, consectetur aliquet erat eros eu nibh. Vivamus ornare quam in lobortis egestas. Integer id dictum lacus. Etiam ornare tortor in placerat blandit. Ut ac luctus metus. Integer accumsan felis ut finibus rhoncus. Nullam tempus facilisis posuere. Aenean ac nunc et est feugiat iaculis ac ut ligula. Suspendisse at ante eros.
